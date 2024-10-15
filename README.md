@@ -31,13 +31,6 @@ Usage: python translateText.py
 
 #### How the script runs in the terminal:
 
-Enter the text you want to translate: Hello
-Enter the source language (e.g., 'en' for English): en
-Enter the target language (e.g., 'es' for Spanish): es
+![cli_language_app_demo](https://github.com/user-attachments/assets/79e76a21-3475-433c-af75-857c7ee88e5d)
 
-**** Following is the translation **** 
-
-Original text:  Hello 
-
-Translated text: Hola
  
